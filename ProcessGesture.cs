@@ -2,7 +2,7 @@
 using Microsoft.Kinect;
 using AppSpecific;
 
-namespace GestureRegcognition
+namespace GestureRecognition
 {
     public class ProcessGesture
     {
@@ -10,7 +10,7 @@ namespace GestureRegcognition
         bool isForwardGestureActive = false;
         bool isLeftGestureActive = false;
         bool isRightGestureActive = false;
-        public void ProcessGesture(Joint head, Joint rightHand, Joint leftHand, Joint rightElbow)
+        public void GestureRec(Joint head, Joint rightHand, Joint leftHand, Joint rightElbow)
         {
             if (rightHand.Position.X > head.Position.X + 0.45)
             {
