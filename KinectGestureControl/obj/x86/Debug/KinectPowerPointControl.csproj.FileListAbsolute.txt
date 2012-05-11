@@ -1,0 +1,13 @@
+E:\Downloads\Compressed\KinectPowerPointControl.src\KinectPowerPointControl.src\KinectPowerPointControl\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Downloads\Compressed\KinectPowerPointControl.src\KinectPowerPointControl.src\KinectPowerPointControl\obj\x86\Debug\MainWindow.baml
+E:\Downloads\Compressed\KinectPowerPointControl.src\KinectPowerPointControl.src\KinectPowerPointControl\obj\x86\Debug\MainWindow.g.cs
+E:\Downloads\Compressed\KinectPowerPointControl.src\KinectPowerPointControl.src\KinectPowerPointControl\obj\x86\Debug\App.g.cs
+E:\Downloads\Compressed\KinectPowerPointControl.src\KinectPowerPointControl.src\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl_MarkupCompile.cache
+E:\Downloads\Compressed\KinectPowerPointControl.src\KinectPowerPointControl.src\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.g.resources
+E:\Downloads\Compressed\KinectPowerPointControl.src\KinectPowerPointControl.src\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.Properties.Resources.resources
+E:\Downloads\Compressed\KinectPowerPointControl.src\KinectPowerPointControl.src\KinectPowerPointControl\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Downloads\Compressed\KinectPowerPointControl.src\KinectPowerPointControl.src\KinectPowerPointControl\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Downloads\Compressed\KinectPowerPointControl.src\KinectPowerPointControl.src\KinectPowerPointControl\bin\Debug\KinectPowerPointControl.exe
+E:\Downloads\Compressed\KinectPowerPointControl.src\KinectPowerPointControl.src\KinectPowerPointControl\bin\Debug\KinectPowerPointControl.pdb
+E:\Downloads\Compressed\KinectPowerPointControl.src\KinectPowerPointControl.src\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.exe
+E:\Downloads\Compressed\KinectPowerPointControl.src\KinectPowerPointControl.src\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.pdb
