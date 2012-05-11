@@ -25,6 +25,7 @@ namespace KinectGestureControl
     {
         KinectSensor sensor;
 
+        int GestureState = 1;
         byte[] colorBytes;
         Skeleton[] skeletons;
         
@@ -115,7 +116,7 @@ namespace KinectGestureControl
                 ellipseLeftHand.Visibility = System.Windows.Visibility.Visible;
                 ellipseRightHand.Visibility = System.Windows.Visibility.Visible;
 
-                ProcessGesture(head, rightHand, leftHand, rightElbow);
+                if (GestureState == 1) ProcessGesture(head, rightHand, leftHand, rightElbow);
             }
         }
 
